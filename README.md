@@ -17,3 +17,8 @@
 * ssh-config 输出ssh连接信息
 * status 输出当前虚拟机的状态
 
+# Vagrant镜像制作
+http://www.360doc.com/content/13/0826/17/13047933_310047914.shtml
+* 制作virtualbox的虚拟机
+* 虚拟机执行环境搭建的命令
+* 将服务打包成vagrant
